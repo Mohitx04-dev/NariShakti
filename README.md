@@ -32,7 +32,8 @@ Enter your mobile number,
 Admin Panel
 The admin page is password protected. It is meant for NGO to view and handle data.
 The userID and password : 
-
+userID = mohitchourasia52@gmail.com
+password = admin123
 Any wrong entry will show error “Wrong username or Password”. 
 After logging in, 2 sections will be visible, 
 •	Change Application Data: 
